@@ -1,4 +1,4 @@
-# Sche-do
+# Biz
 A questions and answers platoform built with React.js and Next.js
 
 ## Screenshot
